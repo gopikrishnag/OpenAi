@@ -1,0 +1,6 @@
+@OpenAiDallE_HostAddress = http://localhost:5279
+
+GET {{OpenAiDallE_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
